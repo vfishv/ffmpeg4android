@@ -1,0 +1,25 @@
+[
+{
+  "directory": "C:/Users/zhangqt/Documents/GitHub/ffmpeg4android/ffmpeg-camera-encode/.cxx/Debug/3qd1u4t5/armeabi-v7a",
+  "command": "C:\\Users\\zhangqt\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/zhangqt/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/zhangqt/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_encode_EXPORTS -IC:/Users/zhangqt/Documents/GitHub/ffmpeg4android/libyuv-single/libs/armeabi-v7a/include -IC:/Users/zhangqt/Documents/GitHub/ffmpeg4android/ffmpeg-single/libs/armeabi-v7a/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-encode.dir\\src\\main\\cpp\\encode_jpeg.cpp.o -c C:\\Users\\zhangqt\\Documents\\GitHub\\ffmpeg4android\\ffmpeg-camera-encode\\src\\main\\cpp\\encode_jpeg.cpp",
+  "file": "C:/Users/zhangqt/Documents/GitHub/ffmpeg4android/ffmpeg-camera-encode/src/main/cpp/encode_jpeg.cpp"
+},
+
+{
+  "directory": "C:/Users/zhangqt/Documents/GitHub/ffmpeg4android/ffmpeg-camera-encode/.cxx/Debug/3qd1u4t5/armeabi-v7a",
+  "command": "C:\\Users\\zhangqt\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/zhangqt/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/zhangqt/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_encode_EXPORTS -IC:/Users/zhangqt/Documents/GitHub/ffmpeg4android/libyuv-single/libs/armeabi-v7a/include -IC:/Users/zhangqt/Documents/GitHub/ffmpeg4android/ffmpeg-single/libs/armeabi-v7a/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-encode.dir\\src\\main\\cpp\\encode_mp4.cpp.o -c C:\\Users\\zhangqt\\Documents\\GitHub\\ffmpeg4android\\ffmpeg-camera-encode\\src\\main\\cpp\\encode_mp4.cpp",
+  "file": "C:/Users/zhangqt/Documents/GitHub/ffmpeg4android/ffmpeg-camera-encode/src/main/cpp/encode_mp4.cpp"
+},
+
+{
+  "directory": "C:/Users/zhangqt/Documents/GitHub/ffmpeg4android/ffmpeg-camera-encode/.cxx/Debug/3qd1u4t5/armeabi-v7a",
+  "command": "C:\\Users\\zhangqt\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/zhangqt/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/zhangqt/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_encode_EXPORTS -IC:/Users/zhangqt/Documents/GitHub/ffmpeg4android/libyuv-single/libs/armeabi-v7a/include -IC:/Users/zhangqt/Documents/GitHub/ffmpeg4android/ffmpeg-single/libs/armeabi-v7a/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-encode.dir\\src\\main\\cpp\\encode_video.cpp.o -c C:\\Users\\zhangqt\\Documents\\GitHub\\ffmpeg4android\\ffmpeg-camera-encode\\src\\main\\cpp\\encode_video.cpp",
+  "file": "C:/Users/zhangqt/Documents/GitHub/ffmpeg4android/ffmpeg-camera-encode/src/main/cpp/encode_video.cpp"
+},
+
+{
+  "directory": "C:/Users/zhangqt/Documents/GitHub/ffmpeg4android/ffmpeg-camera-encode/.cxx/Debug/3qd1u4t5/armeabi-v7a",
+  "command": "C:\\Users\\zhangqt\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/zhangqt/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/zhangqt/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_encode_EXPORTS -IC:/Users/zhangqt/Documents/GitHub/ffmpeg4android/libyuv-single/libs/armeabi-v7a/include -IC:/Users/zhangqt/Documents/GitHub/ffmpeg4android/ffmpeg-single/libs/armeabi-v7a/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-encode.dir\\src\\main\\cpp\\native_code.cpp.o -c C:\\Users\\zhangqt\\Documents\\GitHub\\ffmpeg4android\\ffmpeg-camera-encode\\src\\main\\cpp\\native_code.cpp",
+  "file": "C:/Users/zhangqt/Documents/GitHub/ffmpeg4android/ffmpeg-camera-encode/src/main/cpp/native_code.cpp"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/zhangqt/Documents/GitHub/ffmpeg4android/ffmpeg-camera-encode/.cxx/Debug/3qd1u4t5/armeabi-v7a/CMakeFiles/native-encode.dir
+C:/Users/zhangqt/Documents/GitHub/ffmpeg4android/ffmpeg-camera-encode/.cxx/Debug/3qd1u4t5/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/zhangqt/Documents/GitHub/ffmpeg4android/ffmpeg-camera-encode/.cxx/Debug/3qd1u4t5/armeabi-v7a/CMakeFiles/rebuild_cache.dir

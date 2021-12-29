@@ -1,0 +1,23 @@
+                    Executable : C:\Users\zhangqt\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HC:\Users\zhangqt\Documents\GitHub\ffmpeg4android\ffmpeg-camera-encode
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_PLATFORM=android-21
+-DANDROID_ABI=armeabi-v7a
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DANDROID_NDK=C:\Users\zhangqt\AppData\Local\Android\Sdk\ndk\21.4.7075529
+-DCMAKE_ANDROID_NDK=C:\Users\zhangqt\AppData\Local\Android\Sdk\ndk\21.4.7075529
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\zhangqt\AppData\Local\Android\Sdk\ndk\21.4.7075529\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\zhangqt\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\zhangqt\Documents\GitHub\ffmpeg4android\ffmpeg-camera-encode\build\intermediates\cxx\Debug\3qd1u4t5\obj\armeabi-v7a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\Users\zhangqt\Documents\GitHub\ffmpeg4android\ffmpeg-camera-encode\build\intermediates\cxx\Debug\3qd1u4t5\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-BC:\Users\zhangqt\Documents\GitHub\ffmpeg4android\ffmpeg-camera-encode\.cxx\Debug\3qd1u4t5\armeabi-v7a
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2
