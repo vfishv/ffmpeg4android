@@ -50,7 +50,7 @@ int AACEncoder::EncodeStart(const char *aacPath) {
     pCodecCtx->channels = av_get_channel_layout_nb_channels(pCodecCtx->channel_layout);
     pCodecCtx->bit_rate = 96000;
     if (pFormatCtx->oformat->flags & AVFMT_GLOBALHEADER) {
-        pCodecCtx->flags |= CODEC_FLAG_GLOBAL_HEADER;
+        pCodecCtx->flags |= AV_CODEC_FLAG_GLOBAL_HEADER;
     }
 
     //7.打开音频编码器
