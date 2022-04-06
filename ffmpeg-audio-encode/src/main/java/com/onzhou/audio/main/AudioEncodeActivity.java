@@ -3,6 +3,7 @@ package com.onzhou.audio.main;
 import android.Manifest;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
+import android.os.Environment;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.ActivityCompat;
@@ -73,11 +74,11 @@ public class AudioEncodeActivity extends AbsBaseActivity {
      * @param view
      */
     public void onRecordStart(View view) {
-        File targetDir = getExternalFilesDir(null);
+        File targetDir = getExternalFilesDir(Environment.DIRECTORY_DOWNLOADS);
         if (audioRecorder == null) {
             //audioRecorder = new MediaRecordRecorder(targetDir.getAbsolutePath()+ File.separator+"output.aac");
             //audioRecorder = new AudioRecordRecorder(targetDir.getAbsolutePath()+ File.separator+"output.pcm");
-            audioRecorder = new NativeAudioEncoder(targetDir.getAbsolutePath()+ File.separator+"output.aac");
+            audioRecorder = new NativeAudioEncoder(targetDir.getAbsolutePath() + File.separator + "output.aac");
         }
         audioRecorder.initRecorder();
         audioRecorder.recordStart();
